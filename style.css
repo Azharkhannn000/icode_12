@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(216, 216, 216);
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color: rgb(243, 241, 241);
+    border-radius: 10px;
+    padding: 10px;
+    width: 800px;
+    position: relative;
+    top: 210px;
+}
+button{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 2px 5px 9px gray;
+}
+.girl{
+    border-radius: 20px;
+    width: 200px;
+    height: 110px;
+    padding: 10px;
+}
+.girl1{
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    padding: 5px;
+}
+.first{
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 230px;
+    height: 250px;
+}
+.second{
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 230px;
+    height: 250px;
+}
+.third{
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 230px;
+    height: 250px;
+}
+.mountain{
+    border-radius: 20px;
+    width: 200px;
+    height: 110px;
+    padding: 10px;
+}
+.mount1{
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    padding: 5px;
+}
+.building{
+    border-radius: 20px;
+    width: 200px;
+    padding: 10px;
+}
+.build1{
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    padding: 5px;
+}
+.history{
+    gap: 3rem;
+}
+.images{
+    display: flex;
+}
+.number{
+    position: relative;
+    bottom: 35px;
+    left: 190px;
+}
